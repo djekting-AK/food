@@ -39,7 +39,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
   ////////////////////////////////////////////////////////////////
   // Timer
-  const deadlian = "2020-12-25";
+  const deadlian = "2021-01-31";
 
   function getTimeRemaining(endtime) {
     const t = new Date(endtime) - new Date(),
